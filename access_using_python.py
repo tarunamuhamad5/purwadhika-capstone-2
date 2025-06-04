@@ -21,3 +21,4 @@ df = pd.DataFrame(result, columns=cursor.column_names)
 print(df)
 
 # yuhuuu~
+# Tamabhan update dari cli
