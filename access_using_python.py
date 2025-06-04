@@ -22,3 +22,4 @@ print(df)
 
 # yuhuuu~
 # Tamabhan update dari cli
+# tambahan update dari terminal CLI
